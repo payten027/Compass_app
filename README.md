@@ -1,2 +1,2 @@
 # Compass_app
-A silly little app that points towards a friend/loved onw
+A silly little app that points towards a friend/loved one
